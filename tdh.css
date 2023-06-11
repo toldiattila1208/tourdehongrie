@@ -1,7 +1,7 @@
 body{
     margin: 0px 20px;
     color: navy;
-    background-image: url('kepek/hatter1.png');
+    background-image: url('hatter1.png');
 }
 
 h2{
@@ -74,7 +74,7 @@ input[type=range]{
 
 .row{
     border-radius: 50px;
-    background-image:url("kepek/fatyol.png");
+    background-image:url("fatyol.png");
     padding: 20px;
 }
 
